@@ -9,7 +9,7 @@
 
 | 🟢 仅眨眼 (Blink Only) | 🗣️ 语音驱动口型 (Speech-Driven LipSync) |
 | :---: | :---: |
-| <video src="<<>>" width="100%" controls autoplay loop muted></video> | <video src="<<>>" width="100%" controls autoplay loop></video> |
+| <video src="<<https://github.com/Roeymunyu/Transformer-Audio2Face/raw/refs/heads/main/Showcase/Blink.mp4>>" width="100%" controls autoplay loop muted></video> | <video src="<<>>" width="100%" controls autoplay loop></video> |
 | **[CN]** 基础的 Blendshapes 测试，展示自然的眨眼效果。<br>**[EN]** Basic Blendshapes test, showing natural blinking. | **[CN]** 核心功能演示，基于 Faceformer 架构，通过语音实时生成匹配的口型。<br>**[EN]** Core feature demo! Real-time lip-sync generated from audio based on Faceformer. |
 
 > 右侧 Speak 视频包含Elevenlabs生成的音频，请开启声音以获得最佳体验！
