@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u684C\u9762\u6587\u4EF6\u5939\\ProgramPRO\\Audio2Face_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7263BA73-3B21-2CD6-B0E8-FB93B57A39A6}|Assembly-CSharp.csproj|D:\\Desktop\\\u684C\u9762\u6587\u4EF6\u5939\\ProgramPRO\\Audio2Face_Demo\\assets\\scripts\\faceblendshapesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7263BA73-3B21-2CD6-B0E8-FB93B57A39A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\faceblendshapesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7263BA73-3B21-2CD6-B0E8-FB93B57A39A6}|Assembly-CSharp.csproj|d:\\desktop\\\u684C\u9762\u6587\u4EF6\u5939\\programpro\\audio2face_demo\\assets\\scripts\\faceformerudpreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7263BA73-3B21-2CD6-B0E8-FB93B57A39A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\faceformerudpreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7263BA73-3B21-2CD6-B0E8-FB93B57A39A6}|Assembly-CSharp.csproj|D:\\Desktop\\\u684C\u9762\u6587\u4EF6\u5939\\ProgramPRO\\Audio2Face_Demo\\assets\\scripts\\autoblinkandlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7263BA73-3B21-2CD6-B0E8-FB93B57A39A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\autoblinkandlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoBlinkAndLook.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u684C\u9762\u6587\u4EF6\u5939\\ProgramPRO\\Audio2Face_Demo\\Assets\\Scripts\\AutoBlinkAndLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoBlinkAndLook.cs",
+              "ToolTip": "D:\\Desktop\\\u684C\u9762\u6587\u4EF6\u5939\\ProgramPRO\\Audio2Face_Demo\\Assets\\Scripts\\AutoBlinkAndLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutoBlinkAndLook.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwDIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:40:57.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaceFormerUDPReceiver.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u684C\u9762\u6587\u4EF6\u5939\\ProgramPRO\\Audio2Face_Demo\\Assets\\Scripts\\FaceFormerUDPReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FaceFormerUDPReceiver.cs",
+              "ToolTip": "D:\\Desktop\\\u684C\u9762\u6587\u4EF6\u5939\\ProgramPRO\\Audio2Face_Demo\\Assets\\Scripts\\FaceFormerUDPReceiver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FaceFormerUDPReceiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:53:21.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaceBlendshapesManager.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u684C\u9762\u6587\u4EF6\u5939\\ProgramPRO\\Audio2Face_Demo\\Assets\\Scripts\\FaceBlendshapesManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FaceBlendshapesManager.cs",
+              "ToolTip": "D:\\Desktop\\\u684C\u9762\u6587\u4EF6\u5939\\ProgramPRO\\Audio2Face_Demo\\Assets\\Scripts\\FaceBlendshapesManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FaceBlendshapesManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:26:30.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

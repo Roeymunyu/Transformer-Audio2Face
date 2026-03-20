@@ -1,0 +1,52 @@
+# 忽略所有 mp4 mov 等训练文件
+*.mp4
+*.avi
+*.csv
+*.wav
+*.mov
+*.npy
+*.mp3
+
+# 或者直接忽略存放你个人数据的整个文件夹（假设你的视频放在 training_data 目录下）
+Dataset_Chunks/
+Dataset_Tensors/
+
+# 不需要的文件
+train_wav2bls.py
+live_infer_v3.py
+sender.py
+verify_mapping.py
+
+# ========================================
+# 3. Unity 临时文件 (⚠️ 注意：已去掉开头的 /，适配子文件夹)
+# ========================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# 忽略自动生成的 C# 解决方案和工程文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ========================================
+# 4. 系统缓存文件
+# ========================================
+.DS_Store
+Thumbs.db
