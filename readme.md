@@ -5,15 +5,25 @@
 > 基于 FaceFormer 架构的语音驱动口型生成，与 Unity 实时推送演示系统。
 
 ---
+## 🎬 效果演示 (Demo Showcase)
+
+| 🟢 仅眨眼 (Blink Only) | 🗣️ 语音驱动口型 (Speech-Driven LipSync) |
+| :---: | :---: |
+| <video src="<<>>" width="100%" controls autoplay loop muted></video> | <video src="<<>>" width="100%" controls autoplay loop></video> |
+| **[CN]** 基础的 Blendshapes 测试，展示自然的眨眼效果。<br>**[EN]** Basic Blendshapes test, showing natural blinking. | **[CN]** 核心功能演示，基于 Faceformer 架构，通过语音实时生成匹配的口型。<br>**[EN]** Core feature demo! Real-time lip-sync generated from audio based on Faceformer. |
+
+> 右侧 Speak 视频包含Elevenlabs生成的音频，请开启声音以获得最佳体验！
+
+---
 
 ## 🛠️ 资源与数据准备 (Resources & Data Prep)
 
 ### 1. 🎨 模型资源 (Model Assets)
-* **[CN]** 本项目使用的是从 [模之屋 (Aplaybox)](https://www.aplaybox.com/) 下载的原神 MMD 模型。为了让模型“动”起来，我使用了 Blender 的 MMD 插件导入模型，并借助 **Faceit** 插件为其制作了符合 ARKit 标准的 52 个面部 Blendshapes。（*小贴士：捏脸这一步需要一点耐心和经验，强烈建议跟着 Faceit 官网的手把手教程来做哦！*）
+* **[CN]** 本项目使用的是从 [模之屋 (Aplaybox)](https://www.aplaybox.com/) 下载的原神 MMD 模型。为了让模型“动”起来，我使用了 Blender 的 MMD 插件导入模型，并借助 **Faceit** 插件为其制作了符合 ARKit 标准的 52 个面部 Blendshapes。（*小贴士：捏脸这一步需要一点耐心和经验，强烈建议跟着 Faceit 官网的手把手教程来做！*）
 * **[EN]** The adorable Genshin Impact MMD models were downloaded from [Aplaybox](https://www.aplaybox.com/). I used the MMD plugin to import them into Blender, and the **Faceit** plugin to generate the 52 ARKit-standard facial Blendshapes. (*Tip: This step requires a bit of practice. Highly recommend following the step-by-step tutorials on the Faceit website!*)
 
 ### 2. 🎬 训练数据 (Training Data - DIY Time!)
-* **[CN]** 如果你想从头开始“炼丹”，你需要准备自己的数据集。掏出你的 iPhone，下载 **Live Link Face** App 并开启 ARKit 模式。尽情录制各种说话视频吧（比如绕口令、激情的角色对白、夸张的元音发音等，越丰富越好！）。录制完成后导出到电脑，解压 zip 文件，你就能得到包含 Blendshapes 数据的 `.csv` 文件和包含音频的 `.mov` 文件啦。
+* **[CN]** 如果你想从头开始“炼丹”，你需要准备自己的数据集。掏出你的 iPhone，下载 **Live Link Face** App 并开启 ARKit 模式。尽情录制各种说话视频（比如绕口令、激情的角色对白、夸张的元音发音等，越丰富越好）。录制完成后导出到电脑，解压 zip 文件，你就能得到包含 Blendshapes 数据的 `.csv` 文件和包含音频的 `.mov` 文件啦。
 * **[EN]** Want to train the model from scratch? Grab your iPhone, download the **Live Link Face** app, and switch to ARKit mode. Record yourself speaking a variety of things (tongue twisters, dramatic monologues, exaggerated vowel sounds... go wild!). Export and unzip the file to get the `.csv` (Blendshapes data) and `.mov` (audio) files.
 
 ---
